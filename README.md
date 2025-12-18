@@ -90,6 +90,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
+<div align="center">
+   
 **Created by Mert Batu Bülbül**
 
 💻 Computer Engineering Freshman (1st Year Student) 💻
