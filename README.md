@@ -6,6 +6,11 @@
 ![Tech Stack](https://img.shields.io/badge/Built%20With-TypeScript%20|%20Vite%20|%20Gemini-blueviolet)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
+## 📸 Screenshots
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1b0f0528-d343-49f0-add9-8cbee300ebd3" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ec19822a-4cdc-4f35-97a2-6eab73ed49e4" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4d2455f2-fa6e-4100-ad5e-2ff03fc36cb3" />
+
 ## 📖 Overview
 
 [cite_start]**ColorCraft AI** is a serverless, single-page application designed to empower parents to create unique, custom coloring pages for their children[cite: 3]. [cite_start]By leveraging the multimodal capabilities of the **Google Gemini API**, the app can analyze uploaded photos to create cartoonized line-art characters or generate scenes from text prompts[cite: 5, 25].
@@ -67,9 +72,6 @@ To run this project locally, follow these steps:
 4.  **Generate:** Click "Generate" and watch the AI craft your pages.
 5.  **Download:** Export your coloring book as a PDF.
 
-## 📸 Screenshots
-
-*(You can add screenshots of your UI here later)*
 
 ## 🛡️ Privacy Note
 
@@ -91,7 +93,14 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 <div align="center">
-   
+    
+#  [CLICK TO USE](https://willbyers1.github.io/ColorCraft-AI/) 
+
+
+
+İf the link doesn't work here is the URL:https://willbyers1.github.io/ColorCraft-AI/
+
+    
 **Created by Mert Batu Bülbül**
 
 💻 Computer Engineering Freshman (1st Year Student) 💻
