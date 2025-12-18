@@ -1,0 +1,7 @@
+{
+  "name": "ColorCraft AI",
+  "description": "An AI-powered coloring book generator for children that converts themes and personal photos into custom caricature-style coloring pages using Gemini API.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
