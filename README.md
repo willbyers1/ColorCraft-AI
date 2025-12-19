@@ -8,8 +8,10 @@
 
 ## 📸 Screenshots
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1b0f0528-d343-49f0-add9-8cbee300ebd3" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ec19822a-4cdc-4f35-97a2-6eab73ed49e4" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4d2455f2-fa6e-4100-ad5e-2ff03fc36cb3" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6982b48f-5294-4b2b-8532-4777aa134821" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/7f0b0fae-7110-4fc2-8e31-24847e98933c" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d17bc2d9-0455-45f9-a8f9-5d064763646e" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e48b2fdb-d102-42b4-98cc-105c2a4191b0" />
 
 ## 📖 Overview
 
