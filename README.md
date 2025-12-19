@@ -33,7 +33,7 @@
 * [cite_start]**Core:** HTML5, TypeScript (Strict Mode) [cite: 7]
 * [cite_start]**Styling:** Modern CSS3 (Variables, Flexbox/Grid, Glassmorphism) [cite: 7, 41]
 * [cite_start]**AI Integration:** Google Gemini API (Multimodal/Vision) [cite: 9]
-* [cite_start]**Build Tool:** Vite [cite: 9].
+* [cite_start]**Build Tool:** Vite [cite: 9]
 * [cite_start]**PDF Generation:** jsPDF / html2pdf [cite: 10]
 
 ## 🚀 Getting Started
