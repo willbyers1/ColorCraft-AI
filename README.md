@@ -77,6 +77,8 @@ To run this project locally, follow these steps:
 
 ColorCraft AI is designed with user privacy as a priority. The application runs entirely on the client side. [cite_start]Your personal API keys and uploaded photos are **never** sent to our servers; they are sent directly to Google's Gemini API for processing and are not retained[cite: 16, 54].
 
+> **Note:** You need a valid Google Gemini API Key to generate coloring pages.
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
